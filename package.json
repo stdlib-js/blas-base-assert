@@ -37,7 +37,8 @@
   },
   "dependencies": {
     "@stdlib/blas-base-assert-is-layout": "github:stdlib-js/blas-base-assert-is-layout#main",
-    "@stdlib/utils-define-read-only-property": "^0.2.1"
+    "@stdlib/utils-define-read-only-property": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-base-assert-contains": "^0.2.1",
