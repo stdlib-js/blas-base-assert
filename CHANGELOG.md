@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`b8bd516`](https://github.com/stdlib-js/stdlib/commit/b8bd51687cabdda74299cb37b9a5527fddd35aaa) - update namespace TypeScript declarations [(##2351)](#2351)
 -   [`3719fcd`](https://github.com/stdlib-js/stdlib/commit/3719fcd56b28595b9b101f9767b0b6d965c9e426) - add `isMatrixTriangle` to namespace
 -   [`926dcec`](https://github.com/stdlib-js/stdlib/commit/926dcecec6a4940ecd7ee57da5db924fadfa3edb) - add `isTransposeOperation` to namespace
 -   [`b5f6754`](https://github.com/stdlib-js/stdlib/commit/b5f6754f4b180101e7b43b602d1cbfac7470c699) - add `blas/base/assert` namespace
@@ -123,6 +124,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`b8bd516`](https://github.com/stdlib-js/stdlib/commit/b8bd51687cabdda74299cb37b9a5527fddd35aaa) - **feat:** update namespace TypeScript declarations [(##2351)](#2351) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`396d612`](https://github.com/stdlib-js/stdlib/commit/396d6128357346cafbc438d75d8797377ba4022f) - **docs:** update namespace table of contents [(##2348)](#2348 ) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`3719fcd`](https://github.com/stdlib-js/stdlib/commit/3719fcd56b28595b9b101f9767b0b6d965c9e426) - **feat:** add `isMatrixTriangle` to namespace _(by Athan Reines)_
 -   [`49464c6`](https://github.com/stdlib-js/stdlib/commit/49464c6b0dd287f92e145c73af1f601d000edd37) - **feat:** add `blas/base/assert/is-matrix-triangle` _(by Athan Reines)_
