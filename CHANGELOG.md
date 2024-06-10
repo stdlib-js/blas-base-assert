@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-09)
+## Unreleased (2024-06-10)
 
 <section class="packages">
 
@@ -108,9 +108,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
@@ -122,6 +123,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`396d612`](https://github.com/stdlib-js/stdlib/commit/396d6128357346cafbc438d75d8797377ba4022f) - **docs:** update namespace table of contents [(##2348)](#2348 ) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`3719fcd`](https://github.com/stdlib-js/stdlib/commit/3719fcd56b28595b9b101f9767b0b6d965c9e426) - **feat:** add `isMatrixTriangle` to namespace _(by Athan Reines)_
 -   [`49464c6`](https://github.com/stdlib-js/stdlib/commit/49464c6b0dd287f92e145c73af1f601d000edd37) - **feat:** add `blas/base/assert/is-matrix-triangle` _(by Athan Reines)_
 -   [`926dcec`](https://github.com/stdlib-js/stdlib/commit/926dcecec6a4940ecd7ee57da5db924fadfa3edb) - **feat:** add `isTransposeOperation` to namespace _(by Athan Reines)_

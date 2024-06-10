@@ -74,6 +74,14 @@ var o = ns;
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`isLayout( value )`][@stdlib/blas/base/assert/is-layout]</span><span class="delimiter">: </span><span class="description">test if an input value is a BLAS memory layout.</span>
+-   <span class="signature">[`isMatrixTriangle( value )`][@stdlib/blas/base/assert/is-matrix-triangle]</span><span class="delimiter">: </span><span class="description">test if an input value is a BLAS matrix triangle.</span>
+-   <span class="signature">[`isTransposeOperation( value )`][@stdlib/blas/base/assert/is-transpose-operation]</span><span class="delimiter">: </span><span class="description">test if an input value is a BLAS transpose operation.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -178,6 +186,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/blas-base-assert/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-base-assert/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/blas/base/assert/is-layout]: https://github.com/stdlib-js/blas-base-assert-is-layout
+
+[@stdlib/blas/base/assert/is-matrix-triangle]: https://github.com/stdlib-js/blas-base-assert-is-matrix-triangle
+
+[@stdlib/blas/base/assert/is-transpose-operation]: https://github.com/stdlib-js/blas-base-assert-is-transpose-operation
+
+<!-- </toc-links> -->
 
 </section>
 
