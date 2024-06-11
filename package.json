@@ -39,7 +39,8 @@
     "@stdlib/blas-base-assert-is-layout": "github:stdlib-js/blas-base-assert-is-layout#main",
     "@stdlib/blas-base-assert-is-matrix-triangle": "github:stdlib-js/blas-base-assert-is-matrix-triangle#main",
     "@stdlib/blas-base-assert-is-transpose-operation": "github:stdlib-js/blas-base-assert-is-transpose-operation#main",
-    "@stdlib/utils-define-read-only-property": "^0.2.1"
+    "@stdlib/utils-define-read-only-property": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-base-assert-contains": "^0.2.1",
