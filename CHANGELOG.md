@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`ca84473`](https://github.com/stdlib-js/stdlib/commit/ca844736f22b282b3ee33e0d62373442aaf991db) - update namespace TypeScript declarations [(#2381)](https://github.com/stdlib-js/stdlib/pull/2381)
 -   [`8741f9c`](https://github.com/stdlib-js/stdlib/commit/8741f9ce65e3aefe3d4b1aca6d3be765f44c6f16) - add `isOperationSide` to namespace
 -   [`901d732`](https://github.com/stdlib-js/stdlib/commit/901d732e5f564d696ddfe87481eecd98d5bcf967) - add `isDiagonalType` to namespace
 
@@ -99,6 +100,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`ca84473`](https://github.com/stdlib-js/stdlib/commit/ca844736f22b282b3ee33e0d62373442aaf991db) - **feat:** update namespace TypeScript declarations [(#2381)](https://github.com/stdlib-js/stdlib/pull/2381) _(by stdlib-bot, Athan Reines)_
 -   [`8741f9c`](https://github.com/stdlib-js/stdlib/commit/8741f9ce65e3aefe3d4b1aca6d3be765f44c6f16) - **feat:** add `isOperationSide` to namespace _(by Athan Reines)_
 -   [`66c7026`](https://github.com/stdlib-js/stdlib/commit/66c7026967dd937980d050a79480c425be2f61a0) - **feat:** add `blas/base/assert/is-operation-side` _(by Athan Reines)_
 -   [`901d732`](https://github.com/stdlib-js/stdlib/commit/901d732e5f564d696ddfe87481eecd98d5bcf967) - **feat:** add `isDiagonalType` to namespace _(by Athan Reines)_
