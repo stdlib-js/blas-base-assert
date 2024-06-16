@@ -2,7 +2,117 @@
 
 > Package changelog.
 
-<section class="release" id="v0.0.1">
+<section class="release" id="unreleased">
+
+## Unreleased (2024-06-16)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="blas-base-assert-unreleased">
+
+#### [@stdlib/blas/base/assert](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8741f9c`](https://github.com/stdlib-js/stdlib/commit/8741f9ce65e3aefe3d4b1aca6d3be765f44c6f16) - add `isOperationSide` to namespace
+-   [`901d732`](https://github.com/stdlib-js/stdlib/commit/901d732e5f564d696ddfe87481eecd98d5bcf967) - add `isDiagonalType` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="blas-base-assert-is-diagonal-type-unreleased">
+
+#### [@stdlib/blas/base/assert/is-diagonal-type](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-diagonal-type)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b55cf02`](https://github.com/stdlib-js/stdlib/commit/b55cf027c771d1ad80ca2221cb8115739eea39b4) - add `blas/base/assert/is-diagonal-type`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="blas-base-assert-is-operation-side-unreleased">
+
+#### [@stdlib/blas/base/assert/is-operation-side](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-operation-side)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`66c7026`](https://github.com/stdlib-js/stdlib/commit/66c7026967dd937980d050a79480c425be2f61a0) - add `blas/base/assert/is-operation-side`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8741f9c`](https://github.com/stdlib-js/stdlib/commit/8741f9ce65e3aefe3d4b1aca6d3be765f44c6f16) - **feat:** add `isOperationSide` to namespace _(by Athan Reines)_
+-   [`66c7026`](https://github.com/stdlib-js/stdlib/commit/66c7026967dd937980d050a79480c425be2f61a0) - **feat:** add `blas/base/assert/is-operation-side` _(by Athan Reines)_
+-   [`901d732`](https://github.com/stdlib-js/stdlib/commit/901d732e5f564d696ddfe87481eecd98d5bcf967) - **feat:** add `isDiagonalType` to namespace _(by Athan Reines)_
+-   [`b55cf02`](https://github.com/stdlib-js/stdlib/commit/b55cf027c771d1ad80ca2221cb8115739eea39b4) - **feat:** add `blas/base/assert/is-diagonal-type` _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
 
 ## 0.0.1 (2024-06-11)
 
@@ -10,7 +120,7 @@
 
 ### Packages
 
-<section class="package" id="blas-base-assert-unreleased">
+<section class="package" id="blas-base-assert-v0.0.1">
 
 #### [@stdlib/blas/base/assert](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert)
 
@@ -35,7 +145,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="blas-base-assert-is-layout-unreleased">
+<section class="package" id="blas-base-assert-is-layout-v0.0.1">
 
 #### [@stdlib/blas/base/assert/is-layout](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-layout)
 
@@ -57,7 +167,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="blas-base-assert-is-matrix-triangle-unreleased">
+<section class="package" id="blas-base-assert-is-matrix-triangle-v0.0.1">
 
 #### [@stdlib/blas/base/assert/is-matrix-triangle](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-matrix-triangle)
 
@@ -79,7 +189,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="blas-base-assert-is-transpose-operation-unreleased">
+<section class="package" id="blas-base-assert-is-transpose-operation-v0.0.1">
 
 #### [@stdlib/blas/base/assert/is-transpose-operation](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-transpose-operation)
 
@@ -138,8 +248,4 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
-
-</section>
-
-<!-- /.release -->
 
