@@ -36,26 +36,26 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-base-assert-is-diagonal-type": "github:stdlib-js/blas-base-assert-is-diagonal-type#main",
-    "@stdlib/blas-base-assert-is-layout": "github:stdlib-js/blas-base-assert-is-layout#main",
-    "@stdlib/blas-base-assert-is-matrix-triangle": "^0.0.1",
-    "@stdlib/blas-base-assert-is-operation-side": "github:stdlib-js/blas-base-assert-is-operation-side#main",
-    "@stdlib/blas-base-assert-is-transpose-operation": "^0.0.1",
-    "@stdlib/utils-define-read-only-property": "^0.2.1"
+    "@stdlib/blas-base-assert-is-diagonal-type": "^0.0.1",
+    "@stdlib/blas-base-assert-is-layout": "^0.0.2",
+    "@stdlib/blas-base-assert-is-matrix-triangle": "^0.0.2",
+    "@stdlib/blas-base-assert-is-operation-side": "^0.0.2",
+    "@stdlib/blas-base-assert-is-transpose-operation": "^0.1.0",
+    "@stdlib/utils-define-read-only-property": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-assert-contains": "^0.2.1",
-    "@stdlib/assert-is-boolean": "^0.2.1",
-    "@stdlib/blas-base-diagonal-types": "^0.0.1",
-    "@stdlib/blas-base-layouts": "^0.0.1",
-    "@stdlib/blas-base-matrix-triangles": "^0.0.1",
-    "@stdlib/blas-base-operation-sides": "^0.0.1",
-    "@stdlib/blas-base-transpose-operations": "^0.0.1",
-    "@stdlib/utils-keys": "^0.2.1",
+    "@stdlib/array-base-assert-contains": "^0.2.2",
+    "@stdlib/assert-is-boolean": "^0.2.2",
+    "@stdlib/blas-base-diagonal-types": "^0.0.2",
+    "@stdlib/blas-base-layouts": "^0.0.2",
+    "@stdlib/blas-base-matrix-triangles": "^0.0.2",
+    "@stdlib/blas-base-operation-sides": "^0.0.2",
+    "@stdlib/blas-base-transpose-operations": "^0.1.0",
+    "@stdlib/utils-keys": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
