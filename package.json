@@ -38,6 +38,7 @@
   "dependencies": {
     "@stdlib/blas-base-assert-is-diagonal-type": "^0.0.1",
     "@stdlib/blas-base-assert-is-layout": "^0.0.2",
+    "@stdlib/blas-base-assert-is-matrix-orientation": "github:stdlib-js/blas-base-assert-is-matrix-orientation#main",
     "@stdlib/blas-base-assert-is-matrix-triangle": "^0.0.2",
     "@stdlib/blas-base-assert-is-operation-side": "^0.0.2",
     "@stdlib/blas-base-assert-is-transpose-operation": "^0.1.0",
@@ -48,6 +49,7 @@
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/blas-base-diagonal-types": "^0.0.2",
     "@stdlib/blas-base-layouts": "^0.0.2",
+    "@stdlib/blas-base-matrix-orientations": "github:stdlib-js/blas-base-matrix-orientations#main",
     "@stdlib/blas-base-matrix-triangles": "^0.0.2",
     "@stdlib/blas-base-operation-sides": "^0.0.2",
     "@stdlib/blas-base-transpose-operations": "^0.1.0",

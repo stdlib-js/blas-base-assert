@@ -4,115 +4,24 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="blas-base-assert-unreleased">
-
-#### [@stdlib/blas/base/assert](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert)
-
-<details>
+## Unreleased (2025-07-12)
 
 <section class="features">
 
-##### Features
+### Features
 
+-   [`0b41f37`](https://github.com/stdlib-js/stdlib/commit/0b41f37fd5a455514797c54480879da3fa06201f) - add `isMatrixOrientation` to namespace
+-   [`f5f4f53`](https://github.com/stdlib-js/stdlib/commit/f5f4f53480b1bfdf40b771f3720fecfa9a68911d) - add `blas/base/assert/is-matrix-orientation`
+-   [`722452c`](https://github.com/stdlib-js/stdlib/commit/722452c97282738c0a83e336720c63ee785bc69f) - rename 'none' transpose operation to 'no-transpose'
 -   [`ca84473`](https://github.com/stdlib-js/stdlib/commit/ca844736f22b282b3ee33e0d62373442aaf991db) - update namespace TypeScript declarations [(#2381)](https://github.com/stdlib-js/stdlib/pull/2381)
 -   [`8741f9c`](https://github.com/stdlib-js/stdlib/commit/8741f9ce65e3aefe3d4b1aca6d3be765f44c6f16) - add `isOperationSide` to namespace
+-   [`66c7026`](https://github.com/stdlib-js/stdlib/commit/66c7026967dd937980d050a79480c425be2f61a0) - add `blas/base/assert/is-operation-side`
 -   [`901d732`](https://github.com/stdlib-js/stdlib/commit/901d732e5f564d696ddfe87481eecd98d5bcf967) - add `isDiagonalType` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="blas-base-assert-is-diagonal-type-unreleased">
-
-#### [@stdlib/blas/base/assert/is-diagonal-type](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-diagonal-type)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`b55cf02`](https://github.com/stdlib-js/stdlib/commit/b55cf027c771d1ad80ca2221cb8115739eea39b4) - add `blas/base/assert/is-diagonal-type`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="blas-base-assert-is-operation-side-unreleased">
-
-#### [@stdlib/blas/base/assert/is-operation-side](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-operation-side)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`66c7026`](https://github.com/stdlib-js/stdlib/commit/66c7026967dd937980d050a79480c425be2f61a0) - add `blas/base/assert/is-operation-side`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="blas-base-assert-is-transpose-operation-unreleased">
-
-#### [@stdlib/blas/base/assert/is-transpose-operation](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-transpose-operation)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`722452c`](https://github.com/stdlib-js/stdlib/commit/722452c97282738c0a83e336720c63ee785bc69f) - rename 'none' transpose operation to 'no-transpose'
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`722452c`](https://github.com/stdlib-js/stdlib/commit/722452c97282738c0a83e336720c63ee785bc69f): rename 'none' transpose operation to 'no-transpose'
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -124,24 +33,14 @@
 
 <!-- /.breaking-changes -->
 
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`0b41f37`](https://github.com/stdlib-js/stdlib/commit/0b41f37fd5a455514797c54480879da3fa06201f) - **feat:** add `isMatrixOrientation` to namespace _(by Athan Reines)_
+-   [`f5f4f53`](https://github.com/stdlib-js/stdlib/commit/f5f4f53480b1bfdf40b771f3720fecfa9a68911d) - **feat:** add `blas/base/assert/is-matrix-orientation` _(by Athan Reines)_
 -   [`722452c`](https://github.com/stdlib-js/stdlib/commit/722452c97282738c0a83e336720c63ee785bc69f) - **feat:** rename 'none' transpose operation to 'no-transpose' _(by Athan Reines)_
 -   [`fb8d458`](https://github.com/stdlib-js/stdlib/commit/fb8d458e12ae4cf0d443e04debf72b4ea764de56) - **docs:** update namespace table of contents [(#2383)](https://github.com/stdlib-js/stdlib/pull/2383) _(by stdlib-bot, Athan Reines)_
 -   [`ca84473`](https://github.com/stdlib-js/stdlib/commit/ca844736f22b282b3ee33e0d62373442aaf991db) - **feat:** update namespace TypeScript declarations [(#2381)](https://github.com/stdlib-js/stdlib/pull/2381) _(by stdlib-bot, Athan Reines)_
@@ -156,6 +55,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -164,117 +75,21 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.0.1 (2024-06-11)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="blas-base-assert-v0.0.1">
-
-#### [@stdlib/blas/base/assert](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`b8bd516`](https://github.com/stdlib-js/stdlib/commit/b8bd51687cabdda74299cb37b9a5527fddd35aaa) - update namespace TypeScript declarations [(#2351)](https://github.com/stdlib-js/stdlib/pull/2351)
 -   [`3719fcd`](https://github.com/stdlib-js/stdlib/commit/3719fcd56b28595b9b101f9767b0b6d965c9e426) - add `isMatrixTriangle` to namespace
+-   [`49464c6`](https://github.com/stdlib-js/stdlib/commit/49464c6b0dd287f92e145c73af1f601d000edd37) - add `blas/base/assert/is-matrix-triangle`
 -   [`926dcec`](https://github.com/stdlib-js/stdlib/commit/926dcecec6a4940ecd7ee57da5db924fadfa3edb) - add `isTransposeOperation` to namespace
+-   [`b59eb8b`](https://github.com/stdlib-js/stdlib/commit/b59eb8bf46debbde5e24ec21ed1c0afb184e8ae0) - add `blas/base/assert/is-transpose-operation`
 -   [`b5f6754`](https://github.com/stdlib-js/stdlib/commit/b5f6754f4b180101e7b43b602d1cbfac7470c699) - add `blas/base/assert` namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="blas-base-assert-is-layout-v0.0.1">
-
-#### [@stdlib/blas/base/assert/is-layout](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-layout)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`9b21c2b`](https://github.com/stdlib-js/stdlib/commit/9b21c2b3c40d411cf2e1b4dd01def3a672774645) - add `blas/base/assert/is-layout`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="blas-base-assert-is-matrix-triangle-v0.0.1">
-
-#### [@stdlib/blas/base/assert/is-matrix-triangle](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-matrix-triangle)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`49464c6`](https://github.com/stdlib-js/stdlib/commit/49464c6b0dd287f92e145c73af1f601d000edd37) - add `blas/base/assert/is-matrix-triangle`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="blas-base-assert-is-transpose-operation-v0.0.1">
-
-#### [@stdlib/blas/base/assert/is-transpose-operation](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/assert/is-transpose-operation)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`b59eb8b`](https://github.com/stdlib-js/stdlib/commit/b59eb8bf46debbde5e24ec21ed1c0afb184e8ae0) - add `blas/base/assert/is-transpose-operation`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -296,6 +111,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
