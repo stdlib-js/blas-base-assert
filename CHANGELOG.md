@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-12)
+## Unreleased (2025-09-21)
 
 <section class="features">
 
 ### Features
 
+-   [`d78ef70`](https://github.com/stdlib-js/stdlib/commit/d78ef70c653ac6ea86d6bf93e3e6af5fc97aa18f) - update `blas/base/assert` TypeScript declarations
 -   [`0b41f37`](https://github.com/stdlib-js/stdlib/commit/0b41f37fd5a455514797c54480879da3fa06201f) - add `isMatrixOrientation` to namespace
 -   [`f5f4f53`](https://github.com/stdlib-js/stdlib/commit/f5f4f53480b1bfdf40b771f3720fecfa9a68911d) - add `blas/base/assert/is-matrix-orientation`
 -   [`722452c`](https://github.com/stdlib-js/stdlib/commit/722452c97282738c0a83e336720c63ee785bc69f) - rename 'none' transpose operation to 'no-transpose'
@@ -39,6 +40,8 @@
 
 <details>
 
+-   [`d78ef70`](https://github.com/stdlib-js/stdlib/commit/d78ef70c653ac6ea86d6bf93e3e6af5fc97aa18f) - **feat:** update `blas/base/assert` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`0b41f37`](https://github.com/stdlib-js/stdlib/commit/0b41f37fd5a455514797c54480879da3fa06201f) - **feat:** add `isMatrixOrientation` to namespace _(by Athan Reines)_
 -   [`f5f4f53`](https://github.com/stdlib-js/stdlib/commit/f5f4f53480b1bfdf40b771f3720fecfa9a68911d) - **feat:** add `blas/base/assert/is-matrix-orientation` _(by Athan Reines)_
 -   [`722452c`](https://github.com/stdlib-js/stdlib/commit/722452c97282738c0a83e336720c63ee785bc69f) - **feat:** rename 'none' transpose operation to 'no-transpose' _(by Athan Reines)_
@@ -59,9 +62,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
