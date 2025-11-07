@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-21)
+## Unreleased (2025-11-07)
 
 <section class="features">
 
@@ -40,6 +40,7 @@
 
 <details>
 
+-   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`d78ef70`](https://github.com/stdlib-js/stdlib/commit/d78ef70c653ac6ea86d6bf93e3e6af5fc97aa18f) - **feat:** update `blas/base/assert` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`0b41f37`](https://github.com/stdlib-js/stdlib/commit/0b41f37fd5a455514797c54480879da3fa06201f) - **feat:** add `isMatrixOrientation` to namespace _(by Athan Reines)_
