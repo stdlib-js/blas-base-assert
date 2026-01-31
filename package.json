@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-assert",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Base BLAS assertion utilities.",
   "license": "Apache-2.0",
   "author": {
@@ -49,7 +49,7 @@
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/blas-base-diagonal-types": "^0.0.2",
     "@stdlib/blas-base-layouts": "^0.0.2",
-    "@stdlib/blas-base-matrix-orientations": "github:stdlib-js/blas-base-matrix-orientations#main",
+    "@stdlib/blas-base-matrix-orientations": "^0.1.0",
     "@stdlib/blas-base-matrix-triangles": "^0.0.2",
     "@stdlib/blas-base-operation-sides": "^0.0.2",
     "@stdlib/blas-base-transpose-operations": "^0.1.0",
