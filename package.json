@@ -36,8 +36,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-base-assert-is-diagonal-type": "^0.0.1",
-    "@stdlib/blas-base-assert-is-layout": "^0.0.2",
+    "@stdlib/blas-base-assert-is-diagonal-type": "^0.0.2",
+    "@stdlib/blas-base-assert-is-layout": "^0.0.3",
     "@stdlib/blas-base-assert-is-matrix-orientation": "^0.1.1",
     "@stdlib/blas-base-assert-is-matrix-triangle": "^0.0.3",
     "@stdlib/blas-base-assert-is-operation-side": "^0.0.3",
